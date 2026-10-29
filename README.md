@@ -1,6 +1,6 @@
 ## Hi, I'm Namratha 👋
 
-**ML inference engineer**: I make deep learning models fast and small enough to deploy.
+**Aspiring ML inference engineer**: I make deep learning models fast and small enough to deploy.
 4+ years across autonomous driving (Volvo Cars) and edge AI, focused on **quantization (INT8 / FP8 /
 mixed precision), TensorRT, and LLM serving with vLLM**.
 
